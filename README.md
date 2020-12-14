@@ -1,4 +1,4 @@
-<h1 align="center">Utilizando JWT no Node JS</h1>
+<h1 align="center">Utilizando NestJS</h1>
 
 Projeto desenvolvido durante treinamento Fullstack Master - DevPleno, com intuito de aprender a utilizar o framework NextJS.
 
